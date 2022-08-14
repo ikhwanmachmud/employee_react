@@ -15,7 +15,7 @@ function App() {
   // );
 
   return (
-    <main className='border-2 px-2'>
+    <main className='border-2 px-2 bg-purple-600'>
       <section className="container">
         <div >
           <h1 className='font-serif'>Meet Our Staff</h1>
