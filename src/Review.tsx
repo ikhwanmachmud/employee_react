@@ -43,20 +43,19 @@ const Review = () => {
                         className="shadow rounded-full max-w-full h-auto align-middle border-none bg-teal-300"
                     />
                 </div>
-
-
-            </div>
+           </div>
         </div>
 
-        <div>
+        
+
+        <br />
+        <div className="flex flex-wrap space-x-1 justify-center ">
+            <div className="w-full max-w-xs ">
+                <div className=" shadow-md rounded px-6 pt-6 pb-8 mb-4 bg-red-300">
+                <div>
             <h2>{firstName}</h2>
         </div>
 
-
-        <br />
-        <div className="flex flex-wrap space-x-2 justify-center ">
-            <div className="w-full max-w-xs ">
-                <div className=" shadow-md rounded px-6 pt-6 pb-8 mb-4 bg-red-300">
                     <div className="mb-4">
                         <label className="block text-gray-700 text-sm font-bold mb-2 text-left">
                             Phone Number

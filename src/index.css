@@ -6,6 +6,9 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
+  background-image: url("./assets/futuristik.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   background-color: #70a870;
 
   font-synthesis: none;
